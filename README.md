@@ -2,6 +2,10 @@
 
 # 🚀 Mitagen - Digital Agency Website
 
+## 🌟 **Live Preview** → [**Mitagan**](https://sbcmitagan.netlify.app/) 💕
+
+🎉 Click to explore the fun and laughter! 😄
+
 Modern, Responsive Digital Marketing Agency Website\*\*
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -41,15 +45,7 @@ Modern, Responsive Digital Marketing Agency Website\*\*
 
 **Mitagen** is a premium, fully responsive digital marketing agency website built with modern web technologies. Designed to showcase digital services, team portfolios, client testimonials, and more, this template offers a clean, professional aesthetic perfect for agencies, startups, and creative businesses.
 
-<div align="center">
 
-#### 🌟 **Live Preview** → [**Mitagan**](https://sbcmitagan.netlify.app/) 💕
-
-🎉 Click to explore the fun and laughter! 😄
-
-</div>
-
----
 
 ### 🎯 Purpose
 
